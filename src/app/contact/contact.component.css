@@ -1,0 +1,54 @@
+* {
+  width: 100%;
+  background-color: #0a0a0a;
+  color: azure;
+  align-items: center;
+}
+
+app-header {
+  width: 100%;
+  z-index: 100;
+  position: fixed;
+}
+
+input {
+  height: 3em;
+}
+
+.grid-container-map {
+  padding: 5em 0em;
+}
+
+.address-container {
+  padding-top: 5em;
+  font-size: x-large;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-container {
+  padding-top: 5em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.md-form {
+  gap: 2em;
+  display: grid;
+  grid-template-columns: 100%;
+}
+.map-container {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+.map-container iframe {
+  /* padding: 5em 12.5em; */
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}

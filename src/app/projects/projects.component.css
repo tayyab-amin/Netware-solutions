@@ -1,0 +1,89 @@
+* {
+  background-color: #0a0a0a;
+  color: azure;
+  align-items: center;
+}
+
+app-header {
+  width: 100%;
+  z-index: 100;
+  position: fixed;
+}
+
+.row {
+  height: 100vh;
+}
+
+.proj-p1 {
+  padding: 100px 50px;
+  height: 100%;
+}
+
+img {
+  max-width: 100%;
+}
+
+#cont-proj-1 {
+  padding: 100px 50px;
+  height: 100%;
+  background-color: #2b323f;
+}
+
+#cont-proj-2 {
+  padding: 100px 50px;
+  height: 100%;
+  background-color: #5d4037;
+}
+
+#cont-proj-3 {
+  padding: 100px 50px;
+  height: 100%;
+  background-color: #1e90ff;
+}
+
+#cont-proj-4 {
+  padding: 100px 50px;
+  height: 100%;
+  background-color: #2b323f;
+}
+
+#cont-proj-5 {
+  padding: 100px 50px;
+  height: 100%;
+  background-color: #5d4037;
+}
+
+#cont-proj-6 {
+  padding: 100px 50px;
+  height: 100%;
+  background-color: #1e90ff;
+}
+
+#cont-proj-7 {
+  padding: 100px 50px;
+  height: 100%;
+  background-color: #2b323f;
+}
+
+#cont-proj-8 {
+  padding: 100px 50px;
+  height: 100%;
+  background-color: #5d4037;
+}
+
+#cont-proj-9 {
+  padding: 100px 50px;
+  height: 100%;
+  background-color: #1e90ff;
+}
+
+#cont-proj-10 {
+  padding: 100px 50px;
+  height: 100%;
+  background-color: #2b323f;
+}
+#cont-proj-11 {
+  padding: 100px 50px;
+  height: 100%;
+  background-color: #5d4037;
+}

@@ -1,0 +1,72 @@
+* {
+  background-color: #0a0a0a;
+  color: azure;
+  align-items: center;
+}
+
+app-header {
+  width: 100%;
+  z-index: 100;
+  position: fixed;
+}
+
+.container-fluid {
+  margin-left: 0%;
+  margin-right: 0%;
+}
+
+h4 {
+  color: #1e90ff;
+}
+
+.blue-logo {
+  color: #1e90ff;
+}
+
+img {
+  width: 100%;
+}
+
+#htmlIcon {
+  color: #e34c26;
+}
+
+#phpIcon {
+  color: #8993be;
+}
+
+#laravelIcon {
+  color: #fb503b;
+}
+
+#androidIcon {
+  color: #3ddc84;
+}
+
+#databaseIcon {
+  color: #f29111;
+}
+
+#nodeIcon {
+  color: #68a063;
+}
+
+#graphicIcon {
+  color: #009cde;
+}
+
+#wordpressIcon {
+  color: #21759b;
+}
+
+#reactIcon {
+  color: #61dbfb;
+}
+
+#angularIcon {
+  color: #dd1b16;
+}
+
+#seoIcon {
+  color: #c32aa3;
+}
