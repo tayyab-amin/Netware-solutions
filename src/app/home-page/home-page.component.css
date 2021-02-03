@@ -19,6 +19,16 @@ img {
   height: 100vh;
 }
 
+/* .co-founder {
+  height: 100vh;
+} */
+
+.slider-img {
+  width: 20vh;
+  height: 20vh;
+  border-radius: 50%;
+}
+
 #front-logo {
   background-color: #1f1f1f;
   width: 50vh;
@@ -48,3 +58,7 @@ img {
   height: 100%;
   background-color: #1e90ff;
 }
+
+/* app-footer {
+  padding: 50vh 0vh;
+} */

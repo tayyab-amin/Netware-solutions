@@ -6,7 +6,7 @@ import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { HomePageComponent } from './home-page/home-page.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { NgbCarousel, NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { ProjectsComponent } from './projects/projects.component';
 import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
@@ -14,6 +14,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { MatFormField } from '@angular/material/form-field';
 import { MatButtonModule } from '@angular/material/button';
 import { MatInputModule } from '@angular/material/input';
+// import {mdb-NgbCarousel}
 
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
