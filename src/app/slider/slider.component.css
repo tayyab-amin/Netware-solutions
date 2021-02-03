@@ -1,0 +1,12 @@
+* {
+  padding: 2vh 0vh;
+  background-color: #0a0a0a;
+  color: azure;
+  align-items: center;
+}
+
+.slider-img {
+  width: 20vh;
+  height: 20vh;
+  border-radius: 50%;
+}

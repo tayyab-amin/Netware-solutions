@@ -42,6 +42,7 @@ import {
 } from '@fortawesome/free-brands-svg-icons';
 
 import { FaIconLibrary } from '@fortawesome/angular-fontawesome';
+import { SliderComponent } from './slider/slider.component';
 
 @NgModule({
   declarations: [
@@ -52,6 +53,7 @@ import { FaIconLibrary } from '@fortawesome/angular-fontawesome';
     ProjectsComponent,
     AboutComponent,
     ContactComponent,
+    SliderComponent,
   ],
   imports: [
     BrowserModule,
